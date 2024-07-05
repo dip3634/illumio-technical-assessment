@@ -9,7 +9,7 @@ This project is an initial assessment tool that takes two file paths as input. I
 
 ### With the jar file:
   * Go to the home directory that is illumio-technical-assessment.
-  * Open cmd here and type command 'java -jar Main' to start execution.
+  * Open cmd here and type command 'java -jar Main.jar' to start execution.
 
 ### Using the .class files:
   * Go to the bin directory inside the project.
