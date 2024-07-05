@@ -5,7 +5,7 @@ This project is an initial assessment tool that takes two file paths as input. I
 
 ## How to run:
 
-### Use git clone to clone the repo.
+### Use 'git clone' to clone the repo.
 
 ### With the jar file:
   * Go to the home directory that is illumio-technical-assessment.
