@@ -15,7 +15,7 @@ This project is an initial assessment tool that takes two file paths as input. I
   * Go to the bin directory inside the project.
   * Open cmd here and type command 'java com.illumio.main.Main' to start execution.
 
-#### After the execution starts, the terminal will ask for both the file paths. Use full file paths, eg: C:\Apps\words.txt.
+#### After the execution starts, the terminal will ask for both the file paths. Use full file paths, eg: C:\Apps\words.txt. The first path is for the predefined words file, second one is for the text file.
 
 ## Approach:
   * First the program picks up the words defined in the words file and stores them in a HashMap and a List. (storePreDefinedWords method)
